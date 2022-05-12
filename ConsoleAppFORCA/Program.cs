@@ -6,10 +6,10 @@ using System.IO;
 Jogo j1 = new Jogo();
 
 {  
-    Console.WriteLine("Bem Vindo ao Jogo da Forca!!!!!!!!!!");
+    j1.comecar();
+    j1.jogando();
     
-    string[] lista = { "Matrix",
-        "Batman","Brasil","Gato","Homem" };  
+
 
 }
 
